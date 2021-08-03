@@ -52,7 +52,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
     $ yarn
 
     # Iniciar o projeto
-    $ yarn start
+    $ yarn dev
 ```
 
 ---
